@@ -1,0 +1,45 @@
+.survey {
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+    width: auto;
+    font-family: Tahoma;
+    color: #f5f6f7;
+    max-width: 500px;
+    background-color: #3d3d64;
+    border-radius: 2%;
+    opacity: 95%;
+  }
+  
+  .title, .description {
+    text-align: center;
+  }
+  
+  fieldset{ 
+    padding: 0.9em;
+    border-left: 0;
+    border-right: 0;
+    line-height: 2em;
+    margin-top: -1;
+  }
+  
+  .submit {
+    background-color: #49b64e;
+    margin-top: 1em;
+    padding: 0.65em;
+    border: 0;
+    font-size: 18;
+    font-weight: bold;
+    color: #ffffff;
+    border-color: #000000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 93%;
+  }
+  
+  .comments {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.8em;
+  }
