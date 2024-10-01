@@ -1,6 +1,6 @@
 #  Web Design - Survey Form
 
-Solution Link (live link): https://arig501.github.io/Survey-Form/
+Solution Link (live link): https://ari-501.github.io/Survey-Form/
 
 Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 
